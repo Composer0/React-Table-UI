@@ -1,3 +1,19 @@
+@import '../node_modules/normalize.css/normalize';
+
+@import 'Sass/base/variables.scss';
+@import 'Sass/base/mixins.scss';
+@import 'Sass/base/fonts';
+
+// vendors
+
+// globals and overrides
+@import 'Sass/base/globals.scss';
+@import 'Sass/base/overrides.scss';
+
+// parts
+@import 'Sass/parts/buttons';
+@import 'Sass/parts/nav';
+
 $background: #EBECF0;
 $table-background: #FFFFFF;
 $primary: #101824;

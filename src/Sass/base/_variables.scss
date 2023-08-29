@@ -1,0 +1,33 @@
+//Colors
+$white: #FFFFFF;
+$black: #212121;
+$gray: #F3F3F3;
+$green: #116D38;
+$orange: #F26023;
+$sage: #BCCC9B;
+$sage-light: #D5DEC2;
+$sage-lighter: #EBEFE1;
+$sage-lightest: #F1F4EB;
+$yellow: #D1A028;
+$purple: #421635;
+
+$text: $black;
+
+$accent: $orange;
+
+// Type
+$sans: 'Playfair Display', serif;
+$serif: 'Work Sans', sans-serif;
+
+$primary: $sans;
+
+// Other vars
+$transition: all 0.2s;
+$box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+$ease-out: cubic-bezier(0.19, 1, 0.12, 1);
+$ease-out-extreme: cubic-bezier(0.15,0.9,0.15,1);
+$ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
+$radius: 0.75rem;
+
+// selectors 
+$headers: "h1, h2, h3, h4, h5, h6";
